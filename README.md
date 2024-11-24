@@ -6,7 +6,7 @@ Here is the solutions for the GeeksForGeeks 160 Days challenge. The solutions ar
 <br>
 Days ⤵️
 <pre><b>Day 1</b>: <i>Given an array of positive integers arr[], return the second largest element from the array. If the second largest element doesn't exist then return -1.</i>
-<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Day-1%3A%20Second%20Largest.py">Day-1 Solution</a>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-1%3A%20Second%20Largest.py">Day-1 Solution</a>
 </pre>
 ###### ⏸️ <i>to be continued</i>
 ##### ℹ️ The above list will be updated daily, as I start solving the problems.
