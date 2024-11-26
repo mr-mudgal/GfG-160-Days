@@ -11,7 +11,7 @@ Days ⤵️
 <pre><b>Day 2</b>: <i>Given an array of integers arr[], the task is to move all the zeros to the end of the array while maintaining the relative order of all non-zero elements.
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-2%3A%20Move%20All%20Zeroes%20to%20End.py">Day-2 Solution</a></pre>
 <pre><b>Day 3</b>: <i>You are given an array of integers arr[]. Your task is to reverse the given array.</i>
-<a href="">Day-3 Solution</a></pre>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-3%3A%20Reverse%20an%20Array.py">Day-3 Solution</a></pre>
 ###### ⏸️ <i>to be continued</i>
 ##### ℹ️ The above list will be updated daily, as I start solving the problems.
 
