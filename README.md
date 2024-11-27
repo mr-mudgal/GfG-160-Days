@@ -12,6 +12,8 @@ Days ⤵️
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-2%3A%20Move%20All%20Zeroes%20to%20End.py">Day-2 Solution</a></pre>
 <pre><b>Day 3</b>: <i>You are given an array of integers arr[]. Your task is to reverse the given array.</i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-3%3A%20Reverse%20an%20Array.py">Day-3 Solution</a></pre>
+<pre><b>Day 4</b>: <i>Given an unsorted array arr[]. Rotate the array to the left (counter-clockwise direction) by d steps, where d is a positive integer. Do the mentioned change in the array in place.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-3%3A%20Reverse%20an%20Array.py">Day-4 Solution</a></pre>
 ###### ⏸️ <i>to be continued</i>
 ##### ℹ️ The above list will be updated daily, as I start solving the problems.
 
