@@ -16,6 +16,8 @@ Days ⤵️
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-4%3A%20Rotate%20Array.py">Day-4 Solution</a></pre>
 <pre><b>Day 5</b>: <i>Given an array of integers arr[] representing a permutation, implement the next permutation that rearranges the numbers into the lexicographically next greater permutation. If no such permutation exists, rearrange the numbers into the lowest possible order (i.e., sorted in ascending order).</i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-5%3A%20Next%20Permutation.py">Day-5 Solution</a></pre>
+<pre><b>Day 6</b>: <i>You are given an array of integer arr[] where each number represents a vote to a candidate. Return the candidates that have votes greater than one-third of the total votes,If there's not a majority vote, return an empty array.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-6%3A%20Majority%20Element.py">Day-6 Solution</a></pre>
 ###### ⏸️ <i>to be continued</i>
 ##### ℹ️ The above list will be updated daily, as I start solving the problems.
 
