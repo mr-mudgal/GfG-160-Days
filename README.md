@@ -18,6 +18,8 @@ Days ⤵️
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-5%3A%20Next%20Permutation.py">Day-5 Solution</a></pre>
 <pre><b>Day 6</b>: <i>You are given an array of integer arr[] where each number represents a vote to a candidate. Return the candidates that have votes greater than one-third of the total votes,If there's not a majority vote, return an empty array.</i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-6%3A%20Majority%20Element.py">Day-6 Solution</a></pre>
+<pre><b>Day 7</b>: <i>The cost of stock on each day is given in an array price[]. Each day you may decide to either buy or sell the stock at price[i], you can even buy and sell the stock on the same day. Find the maximum profit that you can get.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-7%3A%20Stock%20Buy%20and%20Sell.py">Day-7 Solution</a></pre>
 ###### ⏸️ <i>to be continued</i>
 ##### ℹ️ The above list will be updated daily, as I start solving the problems.
 
