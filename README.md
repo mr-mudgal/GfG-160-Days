@@ -25,7 +25,7 @@ Days ⤵️
 <pre><b>Day 9</b>: <i>Given an array arr[] denoting heights of N towers and a positive integer K. For each tower, you must perform exactly one of the following operations exactly once. Increase the height of the tower by K Decrease the height of the tower by K Find out the minimum possible difference between the height of the shortest and tallest towers after you have modified each tower.</i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-9%3A%20Minimize%20the%20Heights%20II.py">Day-9 Solution</a></pre>
 <pre><b>Day 10</b>: <i>Given an integer array arr[]. You need to find the maximum sum of a subarray.</i>
-<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-10%3A%20Maximum%20Subarray%20Sum%20-%20Kadanes%20Algorithm.py"></a>Day-10 Solution</pre>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-10%3A%20Maximum%20Subarray%20Sum%20-%20Kadanes%20Algorithm.py">Day-10 Solution</a></pre>
 ###### ⏸️ <i>to be continued</i>
 ##### ℹ️ The above list will be updated daily, as I start solving the problems.
 
