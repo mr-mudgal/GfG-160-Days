@@ -24,6 +24,8 @@ Days ⤵️
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-8%3A%20Stocke%20Buy%20and%20Sell%20%5B1%20trans%5D.py">Day-8 Solution</a></pre>
 <pre><b>Day 9</b>: <i>Given an array arr[] denoting heights of N towers and a positive integer K. For each tower, you must perform exactly one of the following operations exactly once. Increase the height of the tower by K Decrease the height of the tower by K Find out the minimum possible difference between the height of the shortest and tallest towers after you have modified each tower.</i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-9%3A%20Minimize%20the%20Heights%20II.py">Day-9 Solution</a></pre>
+<pre><b></b><i></i>
+<a href=""></a></pre>
 ###### ⏸️ <i>to be continued</i>
 ##### ℹ️ The above list will be updated daily, as I start solving the problems.
 
