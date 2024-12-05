@@ -28,6 +28,8 @@ Days ⤵️
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-10%3A%20Maximum%20Subarray%20Sum%20-%20Kadanes%20Algorithm.py">Day-10 Solution</a></pre>
 <pre><b>Day 11</b>: Given an array arr[] that contains positive and negative integers (may contain 0 as well). Find the maximum product that we can get in a subarray of arr.<i></i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-11%3A%20Maximum%20Subarray%20Product.py">Day-11 Solution</a></pre>
+<pre><b>Day 12</b>: Given an array of integers arr[] in a circular fashion. Find the maximum subarray sum that we can get if we assume the array to be circular.<i></i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-12%3A%20Max%20Circular%20Subarray%20Sum.py">Day-12 Solution</a></pre>
 ###### ⏸️ <i>to be continued</i>
 ##### ℹ️ The above list will be updated daily, as I start solving the problems.
 
