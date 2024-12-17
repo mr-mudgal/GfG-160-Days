@@ -31,7 +31,7 @@ Days ⤵️
 <pre><b>Day 12</b>: Given an array of integers arr[] in a circular fashion. Find the maximum subarray sum that we can get if we assume the array to be circular.<i></i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-12%3A%20Max%20Circular%20Subarray%20Sum.py">Day-12 Solution</a></pre>
 <pre><b>Day 13</b>: <i>You are given an integer array arr[]. Your task is to find the smallest positive number missing from the array.</i>
-<a href="">Day-13 Solution</a></pre>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-13%3A%20Smallest%20Positive%20Missing%20Number.py">Day-13 Solution</a></pre>
 ###### ⏸️ <i>to be continued</i>
 ##### ℹ️ The above list will be updated daily, as I start solving the problems.
 
