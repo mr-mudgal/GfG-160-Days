@@ -26,12 +26,14 @@ Days ⤵️
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-9%3A%20Minimize%20the%20Heights%20II.py">Day-9 Solution</a></pre>
 <pre><b>Day 10</b>: <i>Given an integer array arr[]. You need to find the maximum sum of a subarray.</i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-10%3A%20Maximum%20Subarray%20Sum%20-%20Kadanes%20Algorithm.py">Day-10 Solution</a></pre>
-<pre><b>Day 11</b>: Given an array arr[] that contains positive and negative integers (may contain 0 as well). Find the maximum product that we can get in a subarray of arr.<i></i>
+<pre><b>Day 11</b>: <i>Given an array arr[] that contains positive and negative integers (may contain 0 as well). Find the maximum product that we can get in a subarray of arr.</i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-11%3A%20Maximum%20Subarray%20Product.py">Day-11 Solution</a></pre>
-<pre><b>Day 12</b>: Given an array of integers arr[] in a circular fashion. Find the maximum subarray sum that we can get if we assume the array to be circular.<i></i>
+<pre><b>Day 12</b>: <i>Given an array of integers arr[] in a circular fashion. Find the maximum subarray sum that we can get if we assume the array to be circular.</i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-12%3A%20Max%20Circular%20Subarray%20Sum.py">Day-12 Solution</a></pre>
 <pre><b>Day 13</b>: <i>You are given an integer array arr[]. Your task is to find the smallest positive number missing from the array.</i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-13%3A%20Smallest%20Positive%20Missing%20Number.py">Day-13 Solution</a></pre>
+<pre><b>Day 14</b>: <i>Given a string s, the objective is to convert it into integer format without utilizing any built-in functions. Refer the below steps to know about atoi() function.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-14%3A%20Implement%20ATOI.py">Day-14 Solution</a></pre>
 ###### ⏸️ <i>to be continued</i>
 ##### ℹ️ The above list will be updated daily, as I start solving the problems.
 
