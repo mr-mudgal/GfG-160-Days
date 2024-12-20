@@ -34,6 +34,8 @@ Days ⤵️
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-13%3A%20Smallest%20Positive%20Missing%20Number.py">Day-13 Solution</a></pre>
 <pre><b>Day 14</b>: <i>Given a string s, the objective is to convert it into integer format without utilizing any built-in functions. Refer the below steps to know about atoi() function.</i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-14%3A%20Implement%20ATOI.py">Day-14 Solution</a></pre>
+<pre><b>Day 15</b>: <i>Given two binary strings s1 and s2 consisting of only 0s and 1s. Find the resultant string after adding the two Binary Strings.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-15%3A%20Add%20Binary%20Strings.py">Day-15 Solution</a></pre>
 ###### ⏸️ <i>to be continued</i>
 ##### ℹ️ The above list will be updated daily, as I start solving the problems.
 
