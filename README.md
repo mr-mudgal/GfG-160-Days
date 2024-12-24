@@ -40,6 +40,8 @@ Days ⤵️
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-16%3A%20Anagram.py">Day-16 Solution</a></pre>
 <pre><b>Day 17</b>: <i>Given a string s consisting of lowercase Latin Letters. Return the first non-repeating character in s. If there is no non-repeating character, return '$'.</i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-17%3A%20First%20Non-Reapeating%20Character.py">Day-17 Solution</a></pre>
+<pre><b>Search Pattern</b>: <i>Given two strings, one is a text string txt and the other is a pattern string pat. The task is to print the indexes of all the occurrences of the pattern string in the text string. Use 0-based indexing while returning the indices. </i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-18%3A%20Search%20Pattern.py">Day-18 Solution</a></pre>
 ###### ⏸️ <i>to be continued</i>
 ##### ℹ️ The above list will be updated daily, as I start solving the problems.
 
