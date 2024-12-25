@@ -42,6 +42,8 @@ Days ⤵️
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-17%3A%20First%20Non-Reapeating%20Character.py">Day-17 Solution</a></pre>
 <pre><b>Search Pattern</b>: <i>Given two strings, one is a text string txt and the other is a pattern string pat. The task is to print the indexes of all the occurrences of the pattern string in the text string. Use 0-based indexing while returning the indices. </i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-18%3A%20Search%20Pattern.py">Day-18 Solution</a></pre>
+<pre><b>Day 19</b>: <i>Given a string s, the task is to find the minimum characters to be added at the front to make the string palindrome.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-19%3A%20Min%20Chars%20to%20Add%20for%20Palindrome.py">Day-19 Solution</a></pre>
 ###### ⏸️ <i>to be continued</i>
 ##### ℹ️ The above list will be updated daily, as I start solving the problems.
 
