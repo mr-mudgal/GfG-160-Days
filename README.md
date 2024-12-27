@@ -46,6 +46,8 @@ Days ⤵️
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-19%3A%20Min%20Chars%20to%20Add%20for%20Palindrome.py">Day-19 Solution</a></pre>
 <pre><b>Day 20</b>: <i>You are given two strings of equal lengths, s1 and s2. The task is to check if s2 is a rotated version of the string s1.</i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-20%3A%20Strings%20Rotation%20of%20Each%20Other.py">Day-20 Solution</a></pre>
+<pre><b>Day 21</b>: <i>Given an array arr[] containing only 0s, 1s, and 2s. Sort the array in ascending order.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-21%3A%20Sort%200s%2C%201s%20and%202s.py">Day-21 Solution</a></pre>
 ###### ⏸️ <i>to be continued</i>
 ##### ℹ️ The above list will be updated daily, as I start solving the problems.
 
