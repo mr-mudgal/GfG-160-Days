@@ -8,7 +8,7 @@ Days ⤵️
 <pre><b>Day 1</b>: <i>Given an array of positive integers arr[], return the second largest element from the array. If the second largest element doesn't exist then return -1.</i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-1%3A%20Second%20Largest.py">Day-1 Solution</a>
 </pre>
-<pre><b>Day 2</b>: <i>Given an array of integers arr[], the task is to move all the zeros to the end of the array while maintaining the relative order of all non-zero elements.
+<pre><b>Day 2</b>: <i>Given an array of integers arr[], the task is to move all the zeros to the end of the array while maintaining the relative order of all non-zero elements.</i><br>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-2%3A%20Move%20All%20Zeroes%20to%20End.py">Day-2 Solution</a></pre>
 <pre><b>Day 3</b>: <i>You are given an array of integers arr[]. Your task is to reverse the given array.</i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-3%3A%20Reverse%20an%20Array.py">Day-3 Solution</a></pre>
@@ -48,10 +48,22 @@ Days ⤵️
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-20%3A%20Strings%20Rotation%20of%20Each%20Other.py">Day-20 Solution</a></pre>
 <pre><b>Day 21</b>: <i>Given an array arr[] containing only 0s, 1s, and 2s. Sort the array in ascending order.</i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-21%3A%20Sort%200s%2C%201s%20and%202s.py">Day-21 Solution</a></pre>
+<pre><b>Day 22</b>: <i>Given an integer array citations[], where citations[i] is the number of citations a researcher received for the ith paper. The task is to find the H-index.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-22%3A%20Find%20H-Index.py">Day-22 Solution</a></pre>
+<pre><b>Day 23</b>: <i>Given an array of integers arr[]. Find the Inversion Count in the array. Two elements arr[i] and arr[j] form an inversion if arr[i] > arr[j] and i < j.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-23%3A%20Count%20Inversions.py">Day-23 Solution</a></pre>
+<pre><b>Day 24</b>: <i>Given an array of Intervals arr[][], where arr[i] = [starti, endi]. The task is to merge all of the overlapping Intervals.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-24%3A%20Overlapping%20Intervals.py">Day-24 Solution</a></pre>
+<pre><b>Day 25</b>: <i>Geek has an array of non-overlapping intervals intervals where intervals[i] = [starti, endi] represent the start and the end of the ith event and intervals is sorted in ascending order by starti. He wants to add a new interval newInterval= [newStart, newEnd] where newStart and newEnd represent the start and end of this interval.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-25%3A%20Insert%20Interval.py">Day-25 Solution</a></pre>
+<pre><b>Day 26</b>: <i>Given a 2D array intervals[][] of representing intervals where intervals [i] = [starti, endi ]. Return the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-26%3A%20Non-overlapping%20Intervals.py">Day-26 Solution</a></pre>
+<pre><b>Day 27</b>: <i>Given two sorted arrays a[] and b[] of size n and m respectively, the task is to merge them in sorted order without using any extra space. Modify a[] so that it contains the first n elements and modify b[] so that it contains the last m elements.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-27%3A%20Merge%20Without%20Extra%20Space.py">Day-27 Solution</a></pre>
 ###### ⏸️ <i>to be continued</i>
 ##### ℹ️ The above list will be updated daily, as I start solving the problems.
 
 ℹ️ For any query/doubt/suggestion or anything else, you can create an issue.
 
 <p align="right"><b>Thank You</b></p>
-<p align="right">⎬coded by⎨ ⌘‣ <a href="https://github.com/mr-mudgal">Mr. Mudgal</a></pre>
+<pre align="right">⎬coded by⎨ ⌘‣ <a href="https://github.com/mr-mudgal">Mr. Mudgal</a></pre>
