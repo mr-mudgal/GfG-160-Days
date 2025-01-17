@@ -40,7 +40,7 @@ Days ⤵️
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-16%3A%20Anagram.py">Day-16 Solution</a></pre>
 <pre><b>Day 17</b>: <i>Given a string s consisting of lowercase Latin Letters. Return the first non-repeating character in s. If there is no non-repeating character, return '$'.</i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-17%3A%20First%20Non-Reapeating%20Character.py">Day-17 Solution</a></pre>
-<pre><b>Search Pattern</b>: <i>Given two strings, one is a text string txt and the other is a pattern string pat. The task is to print the indexes of all the occurrences of the pattern string in the text string. Use 0-based indexing while returning the indices. </i>
+<pre><b>Day 18</b>: <i>Given two strings, one is a text string txt and the other is a pattern string pat. The task is to print the indexes of all the occurrences of the pattern string in the text string. Use 0-based indexing while returning the indices. </i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-18%3A%20Search%20Pattern.py">Day-18 Solution</a></pre>
 <pre><b>Day 19</b>: <i>Given a string s, the task is to find the minimum characters to be added at the front to make the string palindrome.</i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-19%3A%20Min%20Chars%20to%20Add%20for%20Palindrome.py">Day-19 Solution</a></pre>
@@ -60,6 +60,40 @@ Days ⤵️
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-26%3A%20Non-overlapping%20Intervals.py">Day-26 Solution</a></pre>
 <pre><b>Day 27</b>: <i>Given two sorted arrays a[] and b[] of size n and m respectively, the task is to merge them in sorted order without using any extra space. Modify a[] so that it contains the first n elements and modify b[] so that it contains the last m elements.</i>
 <a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-27%3A%20Merge%20Without%20Extra%20Space.py">Day-27 Solution</a></pre>
+<pre><b>Day 28</b>: <i>Given a sorted array, arr[] and a number target, you need to find the number of occurrences of target in arr[].</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-28%3A%20Number%20of%20Occurrence.py">Day-28 Solution</a></pre>
+<pre><b>Day 29</b>: <i>A sorted array of distinct elements arr[] is rotated at some unknown point, the task is to find the minimum element in it.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-29%3A%20Sorted%20and%20Rotated%20Minimum.py">Day-29 Solution</a></pre>
+<pre><b>Day 30</b>: <i>Given a sorted and rotated array arr[] of distinct elements, the task is to find the index of a target key. Return -1 if the key is not found.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-30%3A%20Search%20in%20Rotated%20Sorted%20Array.py">Day-30 Solution</a></pre>
+<pre><b>Day 31</b>: <i>Given an array arr[] where no two adjacent elements are same, find the index of a peak element. An element is considered to be a peak if it is greater than its adjacent elements (if they exist). If there are multiple peak elements, return index of any one of them. The output will be "true" if the index returned by your function is correct; otherwise, it will be "false".</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-31%3A%20Peak%20Element.py">Day-31 Solution</a></pre>
+<pre><b>Day 32</b>: <i>Given two sorted arrays a[] and b[] and an element k, the task is to find the element that would be at the kth position of the combined sorted array.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-32%3A%20Aggressive%20Cows.py">Day-32 Solution</a></pre>
+<pre><b>Day 33</b>: <i>You are given an array with unique elements of stalls[], which denote the position of a stall. You are also given an integer k which denotes the number of aggressive cows. Your task is to assign stalls to k cows such that the minimum distance between any two of them is the maximum possible.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-33%3A%20Kth%20Element%20of%20Two%20Arrays.py">Day-33 Solution</a></pre>
+<pre><b>Day 34</b>: <i>You are given an array arr[] of integers, where each element arr[i] represents the number of pages in the ith book. You also have an integer k representing the number of students. The task is to allocate books to each student such that:
+
+Each student receives atleast one book.
+Each student is assigned a contiguous sequence of books.
+No book is assigned to more than one student.
+The objective is to minimize the maximum number of pages assigned to any student. In other words, out of all possible allocations, find the arrangement where the student who receives the most pages still has the smallest possible maximum.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-34%3A%20Allocate%20Minimum%20Pages.py">Day-34 Solution</a></pre>
+<pre><b>Day 35</b>: <i>Given a sorted array of distinct positive integers arr[], we need to find the kth positive number that is missing from arr[].</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-35%3A%20Kth%20Missing%20Positive%20Number%20in%20a%20Sorted%20Array.py">Day-35 Solution</a></pre>
+<pre><b>Day 36</b>: <i>You are given a rectangular matrix mat[][] of size n x m, and your task is to return an array while traversing the matrix in spiral form.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-36%3A%20Spirally%20traversing%20a%20matrix.py">Day-36 Solution</a></pre>
+<pre><b>Day 37</b>: <i>Given a square matrix mat[][] of size n x n. The task is to rotate it by 90 degrees in an anti-clockwise direction without using any extra space.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-37%3A%20Rotate%20by%2090%20degree.py">Day-37 Solution</a></pre>
+<pre><b>Day 38</b>: <i>Given a 2D integer matrix mat[][] of size n x m, where every row and column is sorted in increasing order and a number x, the task is to find whether element x is present in the matrix.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-38%3A%20Search%20in%20a%20Row-Column%20sorted%20matrix.py">Day-38 Solution</a></pre>
+<pre><b>Day 39</b>: <i>Given a row-wise sorted 2D matrix mat[][] of size n x m and an integer x, find whether element x is present in the matrix.
+Note: In a row-wise sorted matrix, each row is sorted in itself, i.e. for any i, j within bounds, mat[i][j] <= mat[i][j+1].</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-39%3A%20Search%20in%20a%20row-wise%20sorted%20matrix.py">Day-39 Solution</a></pre>
+<pre><b>Day 40</b>: <i>Given a strictly sorted 2D matrix mat[][] of size n x m and a number x. Find whether the number x is present in the matrix or not.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-40%3A%20Search%20in%20a%20sorted%20Matrix.py">Day-40 Solution</a></pre>
+<pre><b>Day 41</b>: <i>You are given a 2D matrix mat[][] of size n×m. The task is to modify the matrix such that if mat[i][j] is 0, all the elements in the i-th row and j-th column are set to 0 and do it in constant space complexity.</i>
+<a href="https://github.com/mr-mudgal/GfG-160-Days/blob/master-mudgal/Solutions/Day-41%3A%20Set%20Matrix%20Zeroes.py">Day-41 Solution</a></pre>
 ###### ⏸️ <i>to be continued</i>
 ##### ℹ️ The above list will be updated daily, as I start solving the problems.
 
